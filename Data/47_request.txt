@@ -1,0 +1,21 @@
+NaN
+420A03AS:Introduction to Programming:AI04:NaN:3
+420A04AS:Introduction to Relational Database Systems:AI05:NaN:3
+420A05AS:Information Systems:AI05:NaN:3
+420A06AS:Introduction to Artificial Intelligence:AI07:NaN:3
+420A07AS:Calculus:AI02:NaN:3
+420A08AS:Probability & Statistics:AI01:NaN:3
+420A09AS:Object-Oriented Programming:AI14:NaN:3
+420A10AS:Introduction to Data Structures:AI04:NaN:3
+420A11AS:Database Management Systems:AI05:NaN:3
+420A12AS:Information Security:AI13:NaN:3
+420A13AS:Design Patterns:AI15:NaN:3
+420A14AS:Applied Machine Learning I:AI08:NaN:3
+420A15AS:Advanced Data Management:AI16:NaN:3
+420A16AS:Machine Learning and Neural Networks:AI08:NaN:3
+420AP1AS:Algorithmes et programmation:IN-3:NaN:3
+420BD1AS:Bases de données I:IN-5:NaN:3
+420CT2AS:Concepts de la programmation orientée objet:IN-4:NaN:3
+420DW1AS:Introduction au développement web:IN-6:NaN:3
+420J03AS:Mathématiques appliquées aux jeux vidéo:I-7:NaN:3
+NaN:NaN:NaN:NaN:NaN

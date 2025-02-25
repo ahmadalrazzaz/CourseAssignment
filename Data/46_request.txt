@@ -1,0 +1,21 @@
+NaN
+420A12AS:Information Security:AI13:Anglais / English:1
+420A08AS:Probability & Statistics:AI01:Anglais / English:1
+420A01AS:Creativity, Innovation and Critical Thinking:AI03:Anglais / English:2
+420A04AS:Introduction to Relational Database Systems:AI05:Anglais / English:2
+420A05AS:Information Systems:AI05:Anglais / English:2
+420A06AS:Introduction to Artificial Intelligence:AI07:Anglais / English:2
+420AP1AS:Algorithmes et programmation:IN-3:Anglais / English:2
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

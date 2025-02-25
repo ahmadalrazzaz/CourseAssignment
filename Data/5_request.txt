@@ -1,0 +1,21 @@
+NO
+420AP1AS:Algorithmes et programmation:IN-3:Anglais / English:1
+420LS3AS:Langage de script:IN-4:Français / French:1
+420DW3AS:Développement d'applications web serveur I:IN-7:Français / French:1
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

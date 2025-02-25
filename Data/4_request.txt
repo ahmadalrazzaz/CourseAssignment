@@ -1,0 +1,21 @@
+Non
+420A14AS:Applied Machine Learning I:AI08:NaN:2
+420A16AS:Machine Learning and Neural Networks:AI08:NaN:2
+420BD1AS:Bases de données I:IN-5:NaN:2
+420CT2AS:Concepts de la programmation orientée objet:IN-4:NaN:2
+420JV4AS:Concepts et programmation objet I:I-2:NaN:2
+420RE1AS:Introduction to Networks:IN-18:NaN:2
+420CT1AS:Outils informatiques:IN-1:NaN:1
+420AP1AS:Algorithmes et programmation:IN-3:NaN:1
+420A10AS:Introduction to Data Structures:AI04:NaN:1
+420A09AS:Object-Oriented Programming:AI14:NaN:1
+420A04AS:Introduction to Relational Database Systems:AI05:NaN:1
+420A03AS:Introduction to Programming:AI04:NaN:1
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

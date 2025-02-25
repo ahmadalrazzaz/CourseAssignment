@@ -1,0 +1,21 @@
+Pas de contrainte / No constraints\nmax: 25 he...
+420DW2AS:Développement web client:IN-6:Les deux / Both:4
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Les deux / Both:2
+420AS2AS:Analyse et modélisation de système d'information:IN-8:Français / French:1
+420CT2AS:Concepts de la programmation orientée objet:IN-4:Les deux / Both:3
+420BD1AS:Bases de données I:IN-5:Les deux / Both:7
+420DW3AS:Développement d'applications web serveur I:IN-7:Français / French:1
+420A09AS:Object-Oriented Programming:AI14:Anglais / English:1
+420JV4AS:Concepts et programmation objet I:I-2:Les deux / Both:2
+420PA3AS:Programmation orientée objet avancée:IN-4:Français / French:1
+420A10AS:Introduction to Data Structures:AI04:Anglais / English:1
+420AP1AS:Algorithmes et programmation:IN-3:Les deux / Both:4
+420BD2AS:Bases de données II:IN-5:Français / French:1
+420J03AS:Mathématiques appliquées aux jeux vidéo:I-7:Les deux / Both:2
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

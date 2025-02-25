@@ -1,0 +1,21 @@
+20 heures/semaine max
+574MC2AS:Textures et Langage visuel 1:I9:Français / French:1
+574MC7AS:Modélisation de personnage:I9:Français / French:1
+574N26AS:Dessin:DM2:Français / French:1
+574N31AS:Dessin numérique:DM2:Français / French:1
+574J51AS:Design narratif:IN-10:Français / French:1
+574J29AS:Introduction au domaine du jeu vidéo:IN-11:Français / French:1
+574J52AS:Pratique et éthique professionnelles:IN-11:Français / French:1
+574J56AS:Simulation Production:IN-26:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

@@ -1,0 +1,21 @@
+Non, autant que possible. Disons entre 18 et 2...
+420PA3AS:Programmation orientée objet avancée:IN-4:NaN:1
+420DA3AS:Développement d'applications multi-tiers:IN-6:NaN:1
+420DW3AS:Développement d'applications web serveur I:IN-7:NaN:1
+420AP1AS:Algorithmes et programmation:IN-3:NaN:1
+420DW2AS:Développement web client:IN-6:NaN:1
+420JV4AS:Concepts et programmation objet I:I-2:NaN:1
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

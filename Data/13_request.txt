@@ -1,0 +1,21 @@
+MAXIMUM WEEKLY HOURS IS 14
+420A05AS:Information Systems:AI05:Anglais / English:NaN
+420A01AS:Creativity, Innovation and Critical Thinking:AI03:Anglais / English:NaN
+420A03AS:Introduction to Programming:AI04:Anglais / English:NaN
+420DW1AS:Introduction au développement web:IN-6:Anglais / English:NaN
+420A10AS:Introduction to Data Structures:AI04:Anglais / English:NaN
+420JV4AS:Concepts et programmation objet I:I-2:Anglais / English:NaN
+420RE1AS:Introduction to Networks:IN-18:Anglais / English:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

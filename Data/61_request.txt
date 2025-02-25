@@ -1,0 +1,21 @@
+no
+574J61AS:Méthodologie de production de jeu:IN-26:NaN:NaN
+574N39AS:Synthesis Project:IN-27:NaN:NaN
+574J53AS:Démo reel:IN-24:NaN:NaN
+574N38AS:Pratique professionnelle:IN-27:NaN:NaN
+574N35AS:Mise en scène:IN-27:NaN:NaN
+574J49AS:Design de jeu avancé:IN-10:NaN:NaN
+574N33AS:Conception de personnages:IN-28:NaN:NaN
+574J50AS:Design de niveaux de jeu avancé:IN-25:NaN:NaN
+574J34AS:Animation:IN-24:NaN:NaN
+574N29AS:Animation I:IN-24:NaN:NaN
+574N34AS:Animation II:IN-27:NaN:NaN
+574N36AS:Composition:IN-28:NaN:NaN
+589D31AS:Effets spéciaux télévisuels:MV2:NaN:NaN
+574N30AS:Langage cinématographique:DG1:NaN:NaN
+574N36AS:Composition:IN-28:NaN:NaN
+574J48AS:Design de niveaux de jeu:IN-28:NaN:NaN
+574J47AS:Design de jeu:IN-10:NaN:NaN
+574N37AS:Effets spéciaux:IN-27:NaN:NaN
+574N28AS:Texture:IN-24:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

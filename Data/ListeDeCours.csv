@@ -1,0 +1,64 @@
+Discipline,CoursNo,TitreCours,NbHeure,Langue,Nbre de groupe
+AI00,420A02AS,Linear Algebra,45,AN,1
+AI01,420A08AS,Probability & Statistics,45,AN,1
+AI02,420A07AS,Calculus,60,AN,1
+AI03,420A01AS,"Creativity, Innovation and Critical Thinking",45,AN,1
+AI04,420A03AS,Introduction to Programming,75,AN,1
+AI04,420A10AS,Introduction to Data Structures,75,AN,1
+AI05,420A04AS,Introduction to Relational Database Systems,45,AN,1
+AI05,420A05AS,Information Systems,45,AN,1
+AI05,420A11AS,Database Management Systems,60,AN,1
+AI07,420A06AS,Introduction to Artificial Intelligence,60,AN,1
+AI08,420A14AS,Applied Machine Learning I,75,AN,2
+AI08,420A16AS,Machine Learning and Neural Networks,60,AN,2
+AI13,420A12AS,Information Security,45,AN,1
+AI14,420A09AS,Object-Oriented Programming,90,AN,1
+AI15,420A13AS,Design Patterns,75,AN,2
+AI16,420A15AS,Advanced Data Management,75,AN,2
+I-2,420JV4AS,Object Oriented Programming and Concepts I,75,AN,1
+I-2,420JV4AS,Concepts et programmation objet I,75,FR,1
+I-7,420J03AS,Applied Mathematics for Video Game,60,AN,1
+I-7,420J03AS,Math matiques appliquées aux jeux vidéo,60,FR,1
+IN-1,420CT1AS,Computer Tools,45,AN,3
+IN-1,420CT1AS,Outils informatiques,45,FR,1
+IN-16,420AL2AS,Administration of an Open Source Operating System,60,AN,1
+IN-16,420AL2AS,Administration de systémes d'exploitation libres,60,FR,1
+IN-16,420SS1AS,Client Based Operating System,75,AN,0
+IN-16,420SU1AS,Computer Technical Support,75,AN,0
+IN-18,420NR1AS,Routing and Switching Essentials,75,AN,2
+IN-18,420NR1AS,Notions de base de routage et commutation,75,FR,1
+IN-18,420NR1AS,Routing and Switching Essentials,75,AN,1
+IN-18,420RC2AS,Scaling Networks,75,AN,1
+IN-18,420RC2AS,Routage et commutation de réseaux hiérarchiques,75,FR,1
+IN-18,420RE1AS,Introduction to Networks,75,AN,2
+IN-2,420225AS,"Computer Architecture: DOS 6.22, Hardware",75,AN,3
+IN-2,420225AS,Architecture des ordinateurs,75,FR,1
+IN-2,420SE2AS,Systéme d'exploitation et réseautique,60,FR,1
+IN-2,420SE2AS,Operating Systems and Networking,60,AN,1
+IN-2,420SE2AS,Systéme d'exploitation et réseautique,60,FR,2
+IN-20,420EX2AS,Installation and Configuration of a Server Operating System,60,AN,1
+IN-20,420EX2AS,Installation et configuration d'un systéme d'exploitation se,60,FR,1
+IN-20,420SB1AS,Server Based Operating System,75,AN,2
+IN-3,420AP1AS,Algorithms and Programming,90,AN,3
+IN-3,420AP1AS,Algorithmes et programmation,90,FR,1
+IN-4,420CT2AS,Object Oriented Programming concepts,90,AN,1
+IN-4,420CT2AS,Concepts de la programmation orientée objet,90,FR,1
+IN-4,420CT2AS,Concepts de la programmation orientée objet,90,FR,2
+IN-4,420LS3AS,Langage de script,60,FR,0
+IN-4,420PA3AS,Programmation orient e objet avancée,75,FR,0
+IN-5,420BD1AS,Databases I,90,AN,3
+IN-5,420BD1AS,Bases de données I,90,FR,1
+IN-5,420BD1AS,Databases I,90,AN,1
+IN-5,420BD1AS,Bases de données I,90,FR,2
+IN-5,420BD2AS,Bases de données II,60,FR,1
+IN-6,420DA3AS,Développement d'applications multi-tiers,90,FR,0
+IN-6,420DW1AS,Introduction to Web Development,45,AN,3
+IN-6,420DW1AS,Introduction au d veloppement web,45,FR,1
+IN-6,420DW2AS,Développement web client,90,FR,1
+IN-6,420DW2AS,Web Client Development,90,AN,1
+IN-6,420DW2AS,Développement web client,90,FR,2
+IN-7,420DW3AS,Développement d'applications web serveur I,90,FR,0
+IN-8,420AS2AS,Analyse et mod lisation de systéme d'information,90,FR,1
+IN-8,420J18AS,Information System and Project Methodology I,90,AN,1
+IN-8,420J18AS,Systéme d'information et méthodologie de projet I,90,FR,1
+IN-9,420DM3AS,Développement mobile iOS,75,FR,0

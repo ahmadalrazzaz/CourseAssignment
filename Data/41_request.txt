@@ -1,0 +1,21 @@
+25
+574N32AS:Conception d'environnements:IN-28:Français / French:1
+574N37AS:Effets spéciaux:IN-27:Anglais / English:2
+574N37AS:Effets spéciaux:IN-27:Français / French:1
+574J33AS:Texture:IN-24:Anglais / English:2
+574J32AS:Modélisation:IN-24:Anglais / English:2
+574J32AS:Modélisation:IN-24:Français / French:1
+574J33AS:Texture:IN-24:Français / French:1
+574N28AS:Texture:IN-24:Anglais / English:1
+574N28AS:Texture:IN-24:Français / French:1
+574N27AS:Modélisation:IN-24:Anglais / English:1
+574N27AS:Modélisation:IN-24:Français / French:1
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

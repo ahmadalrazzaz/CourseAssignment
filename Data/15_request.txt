@@ -1,0 +1,21 @@
+NON
+410CJ3AS:NaN:NaN:Français / French:NaN
+412AD3AS:WORD I : Traitement de textes:I-1:Français / French:NaN
+412AD6AS:WORD II : Traitement de textes:I-1:Français / French:NaN
+412AD7AS:Excel I : création et exploitation des données:I-1:Français / French:NaN
+412AD9AS:Excel II : création et exploitation des données:I-1:Français / French:NaN
+412ADDAS:Base de données:I-1:Français / French:NaN
+412AD9AS:Excel II : création et exploitation des données:I-1:Français / French:NaN
+570C21AS:Conception de pages Web:DG2:Français / French:NaN
+420DW2AS:Développement web client:IN-6:Français / French:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

@@ -1,0 +1,21 @@
+non
+574J51AS:Design narratif:IN-10:Anglais / English:NaN
+574J52AS:Pratique et éthique professionnelles:IN-11:Français / French:4 (Sur approbation)
+574J50AS:Design de niveaux de jeu avancé:IN-25:Français / French:NaN
+574J49AS:Design de jeu avancé:IN-10:Français / French:NaN
+574J50AS:Design de niveaux de jeu avancé:IN-25:Anglais / English:NaN
+574J61AS:Méthodologie de production de jeu:IN-26:Français / French:NaN
+574J61AS:Méthodologie de production de jeu:IN-26:Français / French:NaN
+574J53AS:Démo reel:IN-24:Français / French:4 (Sur approbation)
+574J48AS:Design de niveaux de jeu:IN-28:Français / French:NaN
+574J29AS:Introduction au domaine du jeu vidéo:IN-11:Anglais / English:4 (Sur approbation)
+574J56AS:Simulation Production:IN-26:Anglais / English:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

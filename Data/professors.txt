@@ -1,0 +1,81 @@
+10:prof_10:00.027:0|, IN-3, IN-16, IN-8, IN-5, IN-6, IN-7
+11:prof_11:00.030:0|
+12:prof_12:00.05:0|
+13:prof_13:00.08:AI05, AI03,  AI04, L-2, IN-6, IN18|, I-2, IN-18
+14:prof_14:00.08:IN-6, IN-5, AI04|
+15:prof_15:00.08:I-1/IN-06|
+16:prof_16:00.11:Game Design|
+17:prof_17:00.14a:0|, IN-2, IN-6
+18:prof_18:00.14z:0|
+19:prof_19:00.22:Informatique|, IN-28, IN-10
+1:prof_1:00.010:3D ANIMATION FOR TELEVISION & CINEMA|, IN-28
+20:prof_20:00.25:0|, IN-24, IN-11, IN-28, IN-10, IN-25
+21:prof_21:00.25:IN, DM|, IN-28, IN-24, DM2, IN-26, IN-10, IN-11, IN-27
+22:prof_22:00.29:0|
+23:prof_23:00.42:0|, I-2, AI14, IN-4, AI05, AI04, IN-3
+24:prof_24:00.50:IN-3, IN-7, I-2, IN-11|, IN-6, IN-4, IN-5, AI14
+25:prof_25:00.58:0|, AI04, AI05, IN-1, IN-16, AI14
+26:prof_26:00.64:0|, I-7
+27:prof_27:00.67:IN-3, IN-4, IN-6, IN-7|
+28:prof_28:00.67:I10 - I9 - DM2 - IN10 - IN11 - IN26|, IN-10, IN-11, IN-26
+29:prof_29:00.69:0|, IN-1, IN-4, IN-3, I-2, I-1
+2:prof_2:00.011:3D Animation for Television and Cinema|, IN-28, IN-24, DG1
+30:prof_30:00.69:IN-20 -  IN-16 - I-1 - IN-18 - FPS|
+31:prof_31:00.76:IN-6, IN-4, I-2|
+32:prof_32:00.86:0|, IN-10, IN-28, IN-24, IN-11
+33:prof_33:00.86:0|, IN-20, IN-16, IN-18
+34:prof_34:00.90:Animation 3D|, IN-24, IN-27, DG1, IN-28, IN-10, IN-11
+35:prof_35:00.90:Animation 3D|, IN-24, IN-27, DG1, IN-28, IN-10, IN-11
+36:prof_36:00.94:0|
+37:prof_37:00.94:0|
+38:prof_38:01.31:IN-10, IN-24, IN26, IN-28|
+39:prof_39:01.33:0|
+3:prof_3:00.012:IN-6|
+40:prof_40:01.34:420, IN-1, IN-3, IN-4, IN-5, I-2,|
+41:prof_41:01.56:IN-24, IN-27, IN-28|
+42:prof_42:01.61:ANIMAT, IN-27|, DG1, IN-24
+43:prof_43:01.64:IN-6, IN-2, I-3, IN-23, IN-21, IN-4|, IN-20, IN-16, IN-3, IN-8, IN-5
+44:prof_44:01.64:0|, G2, IN-18, IN-16
+45:prof_45:01.74:IN-1, IN-2, IN-3, IN-4, IN-5, IN-6, IN-7, IN-8|, I-2
+46:prof_46:01.75:AI, IN|, AI13, AI01, AI03, AI05, AI07, IN-3
+47:prof_47:01.78:Computer Science and IT and Artifical Intellig...|, AI04, AI05, AI07, AI02, AI01, AI14, AI13, AI15, AI08, AI16, IN-3, IN-5, IN-4, IN-6, I-7
+48:prof_48:01.81:IN-7, IN-11, IN-9, IN-12, IN-16, IN-4, IN-6, I-2|, AI01, AI14, AI04, IN-8, AI00, AI03, AI05, AI13, AI15, IN-3, IN-5, I-7
+49:prof_49:01.81:IN-7, IN-11, IN-9, IN-12, IN-16, IN-4, IN-6, I-2|, AI01, AI14, AI04, IN-8, AI00, AI03, AI05, AI13, AI15, IN-3, IN-5, I-7
+4:prof_4:00.013:0|
+50:prof_50:01.89:0|, AI00, IN-5, IN-6, IN-7, IN-0, IN-3, G5, IN-4, I-7, I-2, DG2
+51:prof_51:01.90:I-2, IN-4|
+53:prof_53:02.41:IN-0-1-4-8-10-16-24-25-26-28 et I10|, IN-28, IN-10, IN-25, IN-24, IN-26, I-2, IN-4, AI14, IN-8
+54:prof_54:02.41:IN-4,IN-6,IN-1,IN-8,I-2|
+55:prof_55:02.47:0|
+56:prof_56:02.67:0|, IN-26, IN-28, IN-10, IN-25, IN-24
+57:prof_57:02.70:SC7, SC1, G5, FG9, SC8, FG11, FG4, FG6, 100, F...|, IN-10, 300, FG5
+58:prof_58:02.94:VFX Jeux vid o|, IN-28, IN-26, IN-24, NaN
+5:prof_5:00.014:0|, IN-3, IN-4, IN-7
+60:prof_60:03.43:0|, AI16, AI04, AI08, AI05, IN-5, AI07, IN-3
+61:prof_61:03.64:MV2, IN-28, IN-10, 420, IN-26, IN-25, IN-24, I...|, IN-27, DG1
+62:prof_62:04.14:0|
+63:prof_63:04.58:0|, IN-2, IN-20, IN-16, IN-5
+64:prof_64:04.58:0|, IN-2, IN-20, IN-16, IN-5
+65:prof_65:04.58:0|, IN-2, IN-20, IN-16, IN-5
+66:prof_66:04.58:0|, IN-2, IN-20, IN-16, IN-5
+67:prof_67:04.69:IN-5,IN-2,IN-3,IN-4, I-2, IN-16, IN-18,IN-8|
+68:prof_68:04.95:AI04, AI05, AI07, AI08, AI10,AI14, IN-1, IN-3,...|, IN-8, IN-4, IN-5
+69:prof_69:05.03:IN-1, G2, I-1, IN-0, IN-2, 420\t\t\t\t|, NaN
+6:prof_6:00.015:Informatique|
+70:prof_70:05.14:Computer Science|, IN-7, IN-6, IN-5, AI07
+71:prof_71:05.14:Computer Science|, IN-7, IN-6, IN-5, AI07
+72:prof_72:05.31:IN-10, IN-11, IN-24, IN-25, IN-26, IN-27, IN-28|
+73:prof_73:05.53:IN-5, IN-20-, IN-16, IN-2|
+74:prof_74:05.64:IN-2, IN-16, IN-18, IN-20, IN-1|, NaN
+75:prof_75:05.73:3D animation and VFX|, IN-27, IN-28, DM2
+76:prof_76:05.80:INFORMATIQUE|, IN-5, IN-9, IN-4, IN-3, AI15, IN-8, I-2, I-7, IN-1
+77:prof_77:06.36:0|, AI08, AI15, AI14, AI04, IN-6
+78:prof_78:07.67:IN-7, IN-5, IN-6, IN-8, IN-3, I-1, I-3, I-2, I...|, IN-4, AI14, AI04, I-7
+79:prof_79:08.83:IN-18, ilas, I-6, I-4, I-3, I-2, I-1|, IN-16
+7:prof_7:00.016:IN-28, DM2|
+80:prof_80:12.24:0|, G5, I-7, IN-0, IN-20, IN-8
+81:prof_81:12.70:IN-28, IN-10, IN-25, IN-11, IN-28, IN-24, IN-26|
+82:prof_82:15.67:0|, IN-6
+83:prof_83:25.01:0|, IN-3, IN-6, IN-4
+8:prof_8:00.017:G9|, G14, G3, G6, G8, IN-11
+9:prof_9:00.020:Biology, Social Sciences|

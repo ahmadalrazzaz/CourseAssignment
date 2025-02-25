@@ -1,0 +1,21 @@
+30
+420RC2AS:Routage et commutation de réseaux hiérarchiques:IN-18:Français / French:3
+420RE1AS:Introduction to Networks:IN-18:Anglais / English:3
+420NR1AS:Notions de base de routage et commutation:IN-18:Anglais / English:3
+420AL2AS:Administration de systèmes d'exploitation libres:IN-16:Anglais / English:3
+420AL2AS:Administration de systèmes d'exploitation libres:IN-16:Français / French:3
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

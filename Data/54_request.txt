@@ -1,0 +1,21 @@
+NaN
+420DW1AS:Introduction au développement web:IN-6:Anglais / English:3
+420CT1AS:Outils informatiques:IN-1:Anglais / English:3
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Anglais / English:1
+420JV4AS:Concepts et programmation objet I:I-2:Anglais / English:1
+420DW2AS:Développement web client:IN-6:Anglais / English:1
+420BD1AS:Bases de données I:IN-5:Anglais / English:3
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

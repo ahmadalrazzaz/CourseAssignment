@@ -1,0 +1,21 @@
+oui
+420AP1AS:Algorithmes et programmation:IN-3:Français / French:1
+420AL2AS:Administration de systèmes d'exploitation libres:IN-16:Français / French:1
+420AS2AS:Analyse et modélisation de système d'information:IN-8:Français / French:1
+420BD1AS:Bases de données I:IN-5:Français / French:1
+420CT1AS:Outils informatiques:IN-1:Français / French:1
+420DW1AS:Introduction au développement web:IN-6:Français / French:1
+420DW2AS:Développement web client:IN-6:Français / French:1
+420DW3AS:Développement d'applications web serveur I:IN-7:Français / French:1
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

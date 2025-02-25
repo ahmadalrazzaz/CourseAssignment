@@ -1,0 +1,21 @@
+NaN
+420A04AS:Introduction to Relational Database Systems:AI05:Anglais / English:NaN
+420A05AS:Information Systems:AI05:Anglais / English:NaN
+420A09AS:Object-Oriented Programming:AI14:Anglais / English:NaN
+420A10AS:Introduction to Data Structures:AI04:Anglais / English:NaN
+420AP1AS:Algorithmes et programmation:IN-3:Anglais / English:NaN
+420AP1AS:Algorithmes et programmation:IN-3:Français / French:NaN
+420DW1AS:Introduction au développement web:IN-6:Français / French:NaN
+420DW1AS:Introduction au développement web:IN-6:Anglais / English:NaN
+420A09AS:Object-Oriented Programming:AI14:Français / French:NaN
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Français / French:NaN
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Anglais / English:NaN
+420DW3AS:Développement d'applications web serveur I:IN-7:Anglais / English:NaN
+420DW3AS:Développement d'applications web serveur I:IN-7:Français / French:NaN
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Français / French:NaN
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Anglais / English:NaN
+420BD1AS:Bases de données I:IN-5:Anglais / English:NaN
+430ST6AS:Stage:HR3:Français / French:NaN
+420BD2AS:Bases de données II:IN-5:Français / French:NaN
+420BD2AS:Bases de données II:IN-5:Anglais / English:NaN
+NaN:NaN:NaN:NaN:NaN

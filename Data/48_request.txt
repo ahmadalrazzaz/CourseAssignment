@@ -1,0 +1,21 @@
+NaN
+420A08AS:Probability & Statistics:AI01:Anglais / English:1
+420A09AS:Object-Oriented Programming:AI14:Anglais / English:1
+420A10AS:Introduction to Data Structures:AI04:Anglais / English:1
+420CT1AS:Outils informatiques:IN-1:Anglais / English:4 (Sur approbation)
+420CT2AS:Concepts de la programmation orientée objet:IN-4:Anglais / English:4 (Sur approbation)
+420DW1AS:Introduction au développement web:IN-6:Anglais / English:1
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Anglais / English:1
+420A02AS:Linear Algebra:AI00:Anglais / English:1
+420A01AS:Creativity, Innovation and Critical Thinking:AI03:Anglais / English:1
+420A03AS:Introduction to Programming:AI04:Anglais / English:1
+420A04AS:Introduction to Relational Database Systems:AI05:Anglais / English:1
+420A05AS:Information Systems:AI05:Anglais / English:1
+420A11AS:Database Management Systems:AI05:Anglais / English:1
+420A12AS:Information Security:AI13:Anglais / English:1
+420A13AS:Design Patterns:AI15:Anglais / English:3
+420AP1AS:Algorithmes et programmation:IN-3:Anglais / English:4 (Sur approbation)
+420BD1AS:Bases de données I:IN-5:Anglais / English:4 (Sur approbation)
+420J03AS:Mathématiques appliquées aux jeux vidéo:I-7:Anglais / English:1
+420JV4AS:Concepts et programmation objet I:I-2:Anglais / English:1
+420DW2AS:Web Client Development:IN-6:Anglais / English:1

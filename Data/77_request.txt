@@ -1,0 +1,21 @@
+NaN
+420A14AS:Applied Machine Learning I:AI08:Anglais / English:3
+420A14AS:Applied Machine Learning I:AI08:Anglais / English:3
+420A13AS:Design Patterns:AI15:Anglais / English:3
+420A13AS:Design Patterns:AI15:Anglais / English:3
+420A13AS:Design Patterns:AI15:Anglais / English:3
+420A16AS:Machine Learning and Neural Networks:AI08:Anglais / English:3
+420A09AS:Object-Oriented Programming:AI14:Anglais / English:1
+420A03AS:Introduction to Programming:AI04:Anglais / English:1
+420DW2AS:Développement web client:IN-6:Anglais / English:1
+420DW1AS:Introduction au développement web:IN-6:Anglais / English:3
+420DW1AS:Introduction au développement web:IN-6:Anglais / English:3
+420DW1AS:Introduction au développement web:IN-6:Anglais / English:3
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

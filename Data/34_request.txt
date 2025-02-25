@@ -1,0 +1,21 @@
+NaN
+574N29AS:Animation I:IN-24:Français / French:2
+574N34AS:Animation II:IN-27:Anglais / English:2
+574N34AS:Animation II:IN-27:Français / French:2
+574N35AS:Mise en scène:IN-27:Anglais / English:2
+574N35AS:Mise en scène:IN-27:Français / French:2
+574N27AS:NaN:IN-24:Anglais / English:2
+574N27AS:NaN:IN-24:Français / French:2
+574N28AS:NaN:IN-24:Anglais / English:2
+574N28AS:NaN:IN-24:Français / French:2
+574N30AS:Langage cinématographique:DG1:Anglais / English:2
+574N30AS:Langage cinématographique:DG1:Français / French:2
+574N33AS:Conception de personnages:IN-28:Anglais / English:2
+574N33AS:Conception de personnages:IN-28:Français / French:2
+574J47AS:Design de jeu:IN-10:Anglais / English:2
+574J48AS:Design de niveaux de jeu:IN-28:Français / French:2
+574J29AS:Introduction au domaine du jeu vidéo:IN-11:Anglais / English:2
+574J29AS:Introduction au domaine du jeu vidéo:IN-11:Français / French:2
+574J53AS:Démo reel:IN-24:Anglais / English:2
+574J53AS:Démo reel:IN-24:Français / French:2
+NaN:NaN:NaN:NaN:NaN

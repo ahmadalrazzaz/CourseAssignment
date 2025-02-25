@@ -1,0 +1,21 @@
+maximum 25 hours per week
+574N34AS:Animation II:IN-27:Français / French:2
+574N35AS:Mise en scène:IN-27:Anglais / English:2
+574N35AS:Mise en scène:IN-27:Français / French:2
+574N30AS:Langage cinématographique:DG1:Anglais / English:2
+574N30AS:Langage cinématographique:DG1:Français / French:2
+574N27AS:Modélisation:IN-24:Anglais / English:2
+574N27AS:Modélisation:IN-24:Français / French:2
+574N38AS:Pratique professionnelle:IN-27:Anglais / English:2
+574N38AS:Pratique professionnelle:IN-27:Français / French:2
+574N39AS:Synthesis Project:IN-27:Anglais / English:2
+574N39AS:Synthesis Project:IN-27:Français / French:2
+574N29AS:Animation I:IN-24:Anglais / English:1
+574N29AS:Animation I:IN-24:Français / French:1
+589D26AS:Animation d'éléments télévisuels:MV2:Français / French:1
+589D30AS:Conception d'éléments télévisuels:MV2:Français / French:1
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

@@ -1,0 +1,21 @@
+20
+420AP1AS:Algorithmes et programmation:IN-3:Français / French:1
+420DW2AS:Développement web client:IN-6:Français / French:1
+420DW2AS:Développement web client:IN-6:Anglais / English:1
+420CT2AS:Concepts de la programmation orientée objet:IN-4:Français / French:1
+420CT2AS:Concepts de la programmation orientée objet:IN-4:Anglais / English:1
+420DA3AS:Développement d'applications multi-tiers:IN-6:Français / French:1
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

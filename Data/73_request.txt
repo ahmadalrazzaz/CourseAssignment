@@ -1,0 +1,21 @@
+NO
+420SB1AS:Server Based Operating System:IN-20:Anglais / English:2
+420SS1AS:Client Based Operating System:IN-16:Anglais / English:2
+420225AS:Architecture des ordinateurs:IN-2:Anglais / English:3
+420SU1AS:Computer Technical Support:IN-16:Anglais / English:2
+420SE2AS:Système d'exploitation et réseautique:IN-2:Anglais / English:2
+420EX2AS:Installation et configuration d'un système d'e...:IN-20:Anglais / English:2
+420AL2AS:Administration de systèmes d'exploitation libres:IN-16:Anglais / English:2
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN

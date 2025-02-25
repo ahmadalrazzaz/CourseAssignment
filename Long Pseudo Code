@@ -1,0 +1,82 @@
+    Create a PriorityQueue for professors in reverse order (highest seniority first)
+
+    Step 1: Read professors.txt and populate PriorityQueue
+    Try:
+        Open professors.txt file for reading
+        For each line in the file:
+            Split the line by ":"
+            Extract professor ID, name, seniority, and disciplines
+            If disciplines are present:
+                Parse and clean the disciplines
+                Add the professor to the PriorityQueue
+            Else:
+                Add the professor without disciplines to the PriorityQueue
+        Close the file
+    Catch:
+        Handle file reading errors
+
+    Create a Department object and initialize it with the PriorityQueue
+
+    Step 2: Read ListeDeCours.csv and populate the Department's CourseMap
+    Try:
+        Open ListeDeCours.csv for reading
+        Skip the first line (header row)
+        For each line in the file:
+            Split the line by ","
+            If the line has 6 columns:
+                Parse the discipline, course ID, title, number of hours, and groups
+                If the course already exists in the CourseMap:
+                    Add the groups to the existing course
+                Else:
+                    Create a new course and add it to the CourseMap
+            Else if the line has more than 6 columns:
+                Handle special cases (e.g., title with commas)
+                Parse the course attributes and add them to the CourseMap
+        Close the file
+    Catch:
+        Handle file reading errors
+
+    Step 3: Process each professor's request
+    Clone the PriorityQueue into a new queue (requestsQueue)
+
+    While requestsQueue is not empty:
+        Remove the professor from the queue
+        Construct the request file name (Data/{professor_id}_request.txt)
+        If the request file does not exist, continue to the next professor
+
+        Try:
+            Open the request file for reading
+            Create a new file (Output/{professor_id}_request_final.csv) for writing
+            Read the first line (weekly hours request):
+                Parse the numbers and update the professor's maximum hours allowed
+                If no numbers are found, set the default maximum hours to 24
+            For each subsequent line in the request file:
+                If the line is valid (not "NaN"):
+                    Parse the course attributes (ID, title, discipline, language, groups)
+                    If the course matches:
+                        Check if the professor can teach the course
+                        Assign groups if conditions are met
+                        Write the request line to the output file with "Assigned groups"
+            Close the request file
+            Close the output file
+        Catch:
+            Handle file reading/writing errors
+
+    Step 4: Generate final output files
+    Try:
+        Create and write to professors_finalAssignments.txt
+        For each professor:
+            Calculate total assigned hours and classes
+            Write the professor's data in the specified format
+        Close the file
+    Catch:
+        Handle file writing errors
+
+    Try:
+        Create and write to courses_unassigned.csv
+        For each course in the CourseMap:
+            If the course has remaining groups:
+                Write the course data in the specified format
+        Close the file
+    Catch:
+        Handle file writing errors

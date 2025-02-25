@@ -1,0 +1,21 @@
+NO
+420SU1AS:Computer Technical Support:IN-16:Anglais / English:3
+420RE1AS:Introduction to Networks:IN-18:Anglais / English:3
+420NR1AS:Notions de base de routage et commutation:IN-18:Anglais / English:4 (Sur approbation)
+420SB1AS:Server Based Operating System:IN-20:Anglais / English:3
+420AL2AS:Administration de systèmes d'exploitation libres:IN-16:Anglais / English:1
+420EX2AS:Installation et configuration d'un système d'e...:IN-20:Anglais / English:1
+420SS1AS:Client Based Operating System:IN-16:Anglais / English:3
+420SE2AS:Système d'exploitation et réseautique:IN-2:Anglais / English:1
+420CT1AS:Outils informatiques:IN-1:Anglais / English:4 (Sur approbation)
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:Anglais / English:NaN
+NaN:NaN:NaN:NaN:NaN

@@ -1,0 +1,21 @@
+No
+420225AS:Architecture des ordinateurs:IN-2:Anglais / English:4 (Sur approbation)
+420SB1AS:Server Based Operating System:IN-20:Anglais / English:4 (Sur approbation)
+420SS1AS:Client Based Operating System:IN-16:Anglais / English:4 (Sur approbation)
+420SU1AS:Computer Technical Support:IN-16:Anglais / English:4 (Sur approbation)
+420A03AS:Introduction to Programming:AI04:Anglais / English:4 (Sur approbation)
+420AP1AS:Algorithmes et programmation:IN-3:Français / French:4 (Sur approbation)
+420AS2AS:Analyse et modélisation de système d'information:IN-8:Français / French:4 (Sur approbation)
+420BD1AS:Bases de données I:IN-5:Français / French:4 (Sur approbation)
+420DW2AS:Développement web client:IN-6:Français / French:4 (Sur approbation)
+420DW2AS:Développement web client:IN-6:Anglais / English:4 (Sur approbation)
+420EX2AS:Installation et configuration d'un système d'e...:IN-20:Français / French:4 (Sur approbation)
+420EX2AS:Installation et configuration d'un système d'e...:IN-20:Anglais / English:4 (Sur approbation)
+420AL2AS:Administration de systèmes d'exploitation libres:IN-16:Anglais / English:4 (Sur approbation)
+420AL2AS:Administration de systèmes d'exploitation libres:IN-16:Français / French:4 (Sur approbation)
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Français / French:4 (Sur approbation)
+420J18AS:Système d'information et méthodologie de projet I:IN-8:Anglais / English:4 (Sur approbation)
+420SE2AS:Système d'exploitation et réseautique:IN-2:Français / French:4 (Sur approbation)
+420SE2AS:Système d'exploitation et réseautique:IN-2:Anglais / English:NaN
+NaN:NaN:NaN:NaN:NaN
+NaN:NaN:NaN:NaN:NaN
